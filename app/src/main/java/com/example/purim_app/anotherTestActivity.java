@@ -4,6 +4,6 @@ import android.support.v7.app.AppCompatActivity;
 
 public class anotherTestActivity extends AppCompatActivity {
 
-    //yotam is the gay
+    //yotam is the gay!!!
 
 }
