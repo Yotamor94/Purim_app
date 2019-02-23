@@ -8,4 +8,6 @@ public class anotherTestActivity extends AppCompatActivity {
 
     //added a new shit
 
+    //what the fuck lol
+
 }
